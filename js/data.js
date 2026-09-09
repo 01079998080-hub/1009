@@ -36,7 +36,7 @@ const FOUNDATION_DATA = {
       name: "송 시 연",
       photo: "images/chairman_official.jpg",
       term: "2024.03 ~ 2028.02",
-      career: "청구고등학교 제18회 졸업 / ㈜청구글로벌 회장",
+      career: "청구고등학교 제17회 졸업 / 영남대학교병원 교수",
       message: "미래를 이끌어갈 청구의 인재들이 경제적 어려움 없이 학업과 꿈에 매진할 수 있도록 든든한 디딤돌이 되겠습니다."
     },
     {
@@ -197,7 +197,7 @@ const FOUNDATION_DATA = {
   // 기부 내역 (Donation Records)
   donations: [
     { id: 1, date: "2026-03-02", donor: "청구고 제21회 동기회", category: "동문 단체", amount: 15000000, purpose: "모교 개교기념 장학기금", status: "완료" },
-    { id: 2, date: "2026-02-24", donor: "송시연 (18회)", category: "개인 동문", amount: 20000000, purpose: "인재육성 특별기금", status: "완료" },
+    { id: 2, date: "2026-02-24", donor: "송시연 (17회)", category: "개인 동문", amount: 20000000, purpose: "인재육성 특별기금", status: "완료" },
     { id: 3, date: "2026-02-18", donor: "㈜청구엔지니어링", category: "기업 후원", amount: 10000000, purpose: "이공계 특기장학", status: "완료" },
     { id: 4, date: "2026-02-05", donor: "박재성 (24회)", category: "개인 동문", amount: 5000000, purpose: "드림동행 장학금", status: "완료" },
     { id: 5, date: "2026-01-20", donor: "익명 후원자 (청구 동문)", category: "개인 동문", amount: 3000000, purpose: "학습기자재 및 도서지원", status: "완료" },
@@ -217,7 +217,7 @@ const FOUNDATION_DATA = {
   hallOfFame: [
     {
       tier: "청구 아너스 클럽 (1억 원 이상)",
-      donors: ["정문식 (15회)", "송시연 (18회)", "㈜청구글로벌", "청구고 제18회 동기회 일동"]
+      donors: ["정문식 (15회)", "송시연 (17회)", "청구고 제17회 동기회 일동", "㈜청구글로벌"]
     },
     {
       tier: "청구 비전 클럽 (5천만 원 이상)",
